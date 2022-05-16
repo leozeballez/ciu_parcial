@@ -1,0 +1,27 @@
+#tabla {
+    border: #000000 1px solid;
+    text-align: left;
+}
+
+#primer_fila_tabla {
+    border: #000000 1px solid;
+    height: 50px;
+    background-color: lightgrey;
+}
+
+td {
+    border: #000000 1px solid;
+    height: 40px;
+}
+
+#boton_sumar {
+    border: gray 1px solid;
+}
+
+#boton_restar {
+    border: gray 1px solid;
+}
+
+.fila_seleccionada {
+    background-color: lightblue;
+}
